@@ -7,7 +7,7 @@ const BlogCard = () => {
     <div className="container   py-4">
       <div className="row">
         <h4 className="pb-2"> Blogs...</h4>
-        <div className=" col-6 col-md-3 col-lg-4 col-xl-4">
+        <div className=" col-6 col-md-3 col-lg-3 col-xl-3">
           <div className="card">
             <img src={blog1} className="card-img-top rounded-top" alt="..." />
             <div className="card-body">
@@ -23,7 +23,7 @@ const BlogCard = () => {
           </div>
         </div>
 
-        <div className="  col-6 col-md-3 col-lg-4 col-xl-4">
+        <div className="  col-6 col-md-3 col-lg-3 col-xl-3">
           <div className="card">
             <img src={blog1} className="card-img-top rounded-top" alt="..." />
             <div className="card-body">
@@ -39,7 +39,7 @@ const BlogCard = () => {
           </div>
         </div>
 
-        <div className="  col-6 col-md-3 col-lg-4 col-xl-4">
+        <div className="  col-6 col-md-3 col-lg-3 col-xl-3">
           <div className="card">
             <img src={blog1} className="card-img-top rounded-top" alt="..." />
             <div className="card-body">
@@ -55,7 +55,7 @@ const BlogCard = () => {
           </div>
         </div>
 
-        <div className=" col-6 col-md-3 col-lg-4 col-xl-4">
+        <div className=" col-6 col-md-3 col-lg-3 col-xl-3">
           <div className="card">
             <img src={blog1} className="card-img-top rounded-top p-2" alt="..." />
             <div className="card-body">

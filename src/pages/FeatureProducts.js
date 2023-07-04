@@ -38,21 +38,9 @@ const FeatureProducts = (props) => {
             <CardOfProductFeature />
           </Link>
         </div>
-        <div className="col-12 col-md-6 col-lg-3 col-xl-3">
-          <Link to="/product/:id">
-            <CardOfProductFeature />
-          </Link>
-        </div>
-        <div className="col-12 col-md-6 col-lg-3 col-xl-3">
-          <Link to="/product/:id">
-            <CardOfProductFeature />
-          </Link>
-        </div>
-        <div className="col-12 col-md-6 col-lg-3 col-xl-3">
-          <Link to="/product/:id">
-            <CardOfProductFeature />
-          </Link>
-        </div>
+        
+        
+        
       </div>
     </div>
   );
