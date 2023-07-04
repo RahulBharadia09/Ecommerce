@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+##Images of the sites
+
+![Landing-Page](./PHOTOS/1ss.jpg)
+![Landing-Page](./PHOTOS/2ss.jpg)
+![Landing-Page](./PHOTOS/3ss.jpg)
+![Landing-Page](./PHOTOS/4ss.jpg)
+![Landing-Page](./PHOTOS/5ss.jpg)
+![Landing-Page](./PHOTOS/6ss.jpg)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
